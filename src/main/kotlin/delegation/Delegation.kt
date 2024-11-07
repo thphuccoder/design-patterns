@@ -1,4 +1,4 @@
-package tech.bumbii
+package tech.bumbii.delegation
 
 interface Worker {
     fun work()
